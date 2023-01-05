@@ -6,7 +6,7 @@
   <div>
     Hi✋! I am Saurabh , A Programmer & a Front-End Developer .Recently i have completed my graduation, I am a logical and results-driven FRONT-END Web Developer.In the year 2021 i started my coding journey with C++ but later i switched to JAVA .After that i was very keen to explore web related technologies, so i started with Web-Development.I am very much familier with languages like C, C++ and kind of strong hold on JAVASCRIPT & JAVA programming.I have been learning web related technologies and working on some real time projects at the very same time so basically i have done the PROJECT BASED LEARNING. Now i am looking for an opportunity to get into this Tech-World. THANK YOU</div>
 
-SOCIALS:
+#SOCIALS:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saurabhpandey317) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-sagar-pandey-9b6a5624b/) 
 
 SKILLS:
