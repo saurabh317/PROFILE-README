@@ -16,8 +16,8 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh317&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh317&theme=merko&hide_border=false)<br/>
   
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<!--   <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh317&show_icons=true&locale=en&layout=compact" alt="saurabh317" /></p>
 
