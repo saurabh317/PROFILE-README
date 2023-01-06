@@ -15,14 +15,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh317&theme=merko&hide_border=false)<br/>
   
 
-
+## Languages Used:
+  <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh317&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurabh317" /></p>
+  </div>
 
 
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko) -->
 
-## Languages used:
-[![](https://visitcount.itsvg.in/api?id=saurabh317&icon=6&color=2)](https://visitcount.itsvg.in)
+
+ <div>
+   [![](https://visitcount.itsvg.in/api?id=saurabh317&icon=6&color=2)](https://visitcount.itsvg.in)
 </div>
