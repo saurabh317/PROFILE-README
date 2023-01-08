@@ -4,7 +4,7 @@
   
     Hi✋! I am Saurabh😊 A Programmer & A Front-End Developer
 ## ABOUT ME:  
-In the year 2021 i started my coding journey with C++ but later i switched to JAVA.After that i was very keen to explore web related          technologies, so i started with Web-Development.I am very much familier with languages like C, C++ and strong hold on JAVASCRIPT & JAVA        programming.I have been learning web related technologies & working on some real time projects at the very same time so basically i have done the PROJECT BASED LEARNING. Now i am looking for an opportunity to get into this Tech-World. THANK YOU
+In the year 2021 i started my coding journey with C++ but later i switched to JAVA.After that i was very keen to explore web related          technologies, so i started with Web-Development.I am very much familier with languages like C, C++ and strong hold on JAVASCRIPT & JAVA        programming.I have been learning web related technologies & working on some real time projects at the very same time so basically i have done the PROJECT BASED LEARNING. Now i am looking for an opportunity to get into this Tech-World. THANK YOU.
    
 
 
