@@ -21,7 +21,7 @@ In the year 2021 i started my coding journey with C++ but later i switched to JA
   
 
 ##  Top Languages Used:
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh317&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurabh317"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh317&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurabh317"/>
 </div>
  
 
