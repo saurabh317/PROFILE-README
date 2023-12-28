@@ -27,11 +27,10 @@ In the year 2021 i started my coding journey with C++ but later i switched to JA
 
 
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko) -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-
-<!-- 
-   [![](https://visitcount.itsvg.in/api?id=saurabh317&icon=6&color=2)](https://visitcount.itsvg.in)
-   -->
+### ✍️ Account visited
+[![7896](https://visitcount.itsvg.in/api?id=saurabh317&icon=6&color=2)](https://visitcount.itsvg.in)
+ 
 
