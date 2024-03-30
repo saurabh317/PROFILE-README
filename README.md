@@ -2,7 +2,7 @@
 
  <img alt="img" align="center" width="100%" height="300"  src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47we33zqmsqk96cds6dq1rbh9feuscw408w7c9iesq&rid=giphy.gif&ct=g"/>  
   
-    Hi✋! I am Saurabh😊 A Programmer & A Front-End Developer
+    Hi✋! I am Saurabh😊 A Programmer & A Software Developer
 ##  [Check Out My PersonalPortfolio](https://myportfolio-317.netlify.app/ )🏅    
 In the year 2021 i started my coding journey with C++ but later i switched to JAVA.After that i was very keen to explore web related          technologies, so i started with Web-Development.I am very much familier with languages like C, C++ and strong hold on JAVASCRIPT & JAVA        programming.I have been learning web related technologies & working on some real time projects. If you are looking for a developer having good knowledge of web , you are at right spot, i am looking for a new role and would appreciate your help. THANK YOU.
    
