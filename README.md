@@ -14,15 +14,10 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<div align="center">
-<a href="https://github.com/saurabh317">
-<img align="left" width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iutkarsh077&theme=2077" height="180em" />
-<img align="right" width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh317&theme=2077" height="180em" />
-</div>
 
 <div align="center">
-  <p color="dark"><img align="left" height="156" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh317&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurabh317" /></p>
-  <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh317&theme=dark" alt="saurabh317" /></p>
+  <p color="dark"><img align="left" height="170" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh317&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurabh317" /></p>
+  <p><img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh317&theme=dark" alt="saurabh317" /></p>
 </div>
 
 
