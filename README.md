@@ -16,9 +16,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <div align="center">
 <a href="https://github.com/saurabh317">
+<img align="center" width="650" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh317&theme=2077" height="180em" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iutkarsh077&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh317&theme=2077" height="180em" />
-<img align="right" width="650" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh317&theme=2077" height="180em" />
 </div>
 
 <div align="center">
