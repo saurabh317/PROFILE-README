@@ -24,8 +24,8 @@
 </div>
 
 <div align="center">
-  <p color="dark"><img align="left" height="196" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh317&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurabh317" /></p>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh317&theme=dark" alt="saurabh317" /></p>
+  <p color="dark"><img align="left" height="156" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh317&show_icons=true&theme=dark&locale=en&layout=compact" alt="saurabh317" /></p>
+  <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh317&theme=dark" alt="saurabh317" /></p>
 </div>
 
 
