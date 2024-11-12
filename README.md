@@ -17,9 +17,7 @@
 <div align="center">
 <a href="https://github.com/saurabh317">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iutkarsh077&theme=2077" height="180em" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabh317&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh317&theme=2077" height="180em" />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saurabh317&theme=2077" height="180em" />
 <img align="right" width="650" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh317&theme=2077" height="180em" />
 </div>
 
